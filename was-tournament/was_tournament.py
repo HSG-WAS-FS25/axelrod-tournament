@@ -1,5 +1,7 @@
 import axelrod as axl
 from wasstrategies import jeremy_strategy as pl0
+from wasstrategies import tibor_strategy as pl1
+from wasstrategies import constantin_strategy as pme
 
 """Run an Axelrod Tournament (https://axelrod.readthedocs.io/en/stable/tutorials/new_to_game_theory_and_or_python
 /tournament.html)"""
@@ -9,7 +11,9 @@ strategies = [
     axl.Defector(),
     axl.TitForTat(),
     axl.Grudger(),
-    pl0.Jeremy()
+    pl0.Jeremy(),
+    pl1.Tibor(),
+    pme.Constantin()
 ]
 
 # Print the strategy players
