@@ -1,7 +1,12 @@
 import axelrod as axl
 from wasstrategies import jeremy_strategy as pl0
 from wasstrategies import tibor_strategy as pl1
-from wasstrategies import constantin_strategy as pme
+from wasstrategies import constantin_strategy as pl2
+from wasstrategies import christoph_strategy as pl3
+from wasstrategies import dominik_strategy as pl4
+from wasstrategies import esra_strategy as pl5
+from wasstrategies import joshua_strategy as pl6
+
 
 """Run an Axelrod Tournament (https://axelrod.readthedocs.io/en/stable/tutorials/new_to_game_theory_and_or_python
 /tournament.html)"""
@@ -13,7 +18,11 @@ strategies = [
     axl.Grudger(),
     pl0.Jeremy(),
     pl1.Tibor(),
-    pme.Constantin()
+    pl2.Constantin(),
+    pl3.Christoph(),
+    pl4.Dominik(),
+    pl5.Esra(),
+    pl6.Joshua()
 ]
 
 # Print the strategy players
