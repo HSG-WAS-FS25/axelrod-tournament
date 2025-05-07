@@ -9,7 +9,7 @@ class Tibor(Player):
     
     The player starts by cooperating, then:
     1. Copies the opponent's last move (Tit-for-Tat behavior)
-    2. If opponent has defected more than 3 times in a row, defects
+    2. If opponent has defected more than 2 times in a row, defects
     3. Counter resets when opponent cooperates
     """
 
