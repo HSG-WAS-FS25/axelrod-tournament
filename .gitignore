@@ -3,3 +3,7 @@ __pycache__/
 *$py.class
 .venv/
 .idea/
+was_payoff_matrix.png
+was_results.png
+was_tournament_analysis.csv
+was_win_distributions.png
