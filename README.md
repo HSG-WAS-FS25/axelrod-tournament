@@ -23,6 +23,7 @@ Each match between two players consists of 10 rounds.
 The player whose strategy accumulated the greatest score wins.
 
 Scores are attributed based on the Prisoner's Dilemma where each player has two possible actions, Cooperate (C), and Defect(D). The following negative payoffs indicate how many years each player will spend in prison (in absolute value):
+
 |               | Cooperate (C) | Defect (D) |
 |:-------------:|:-------------:|:----------:|
 | Cooperate (C) |    (-1,-1)    |   (-5,0)   |
@@ -34,10 +35,10 @@ Scores are attributed based on the Prisoner's Dilemma where each player has two 
 Run `python3 was-tournament/was_tournament.py` ([was_tournament.py](/was-tournament/was_tournament.py)) to run a simple tournament of 10 rounds (1 round robin) between a `TitForTat`, a `Grudger` (i.e. a Trigger), a `Defector`, a `Cooperator`, and a `Random`.
 
 The tournament produces three files analysing the results:
-- [was_results.png](/was-tournament/was_results.png): visualizes tournament normalized scores
-- [was_win_distributions.png](/was-tournament/was_win_distributions.png): visualizes tournament win distributions
-- [was_payoff_matrix.png](/was-tournament/was_payoff_matrix.png): visualizes tournament payoff matrix
-- [was_tournament_analysis.csv](/was-tournament/was_tournament_analysis.csv): summarises tournament results
+- [was_results.png](./was-tournament/was_results.png): visualizes tournament normalized scores
+- [was_win_distributions.png](./was-tournament/was_win_distributions.png): visualizes tournament win distributions
+- [was_payoff_matrix.png](./was-tournament/was_payoff_matrix.png): visualizes tournament payoff matrix
+- [was_tournament_analysis.csv](./was-tournament/was_tournament_analysis.csv): summarises tournament results
 
 Additionally, the program prints the [morality metrics](https://axelrod.readthedocs.io/en/stable/how-to/calculate_morality_metrics.html) calculated for each player of the tournament:
 - Cooperation Rate: The fraction of interactions in which the player cooperated.
@@ -47,7 +48,7 @@ to cooperations with immoral opponents.
 - Eigenmoses Rate: A metric that favors cooperation with moral opponents, and defecting immoral oppontents. It gives a positive weight to cooperations with moral opponents, and a negative weight to cooperations with immoral opponents.
 
 ### Play as a human to explore different strategies
-Before implementing your strategy, you can run `python3 was-human-inclusive-match/was-human-inclusive-match.py` ([was-human-inclusive-match.py](/was-human-inclusive-match/was_human_inclusive_match.py)), and try out different startegies by 
+Before implementing your strategy, you can run `python3 was-human-inclusive-match/was_human_inclusive_match.py` ([was-human-inclusive-match.py](/was-human-inclusive-match/was_human_inclusive_match.py)), and try out different startegies by 
 [playing as a human against a TitForTat player](https://axelrod.readthedocs.io/en/fix-documentation/tutorials/getting_started/human_interaction.html). 
 
 ### Implement and submit your own strategy
