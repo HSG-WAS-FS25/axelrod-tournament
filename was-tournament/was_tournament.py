@@ -17,6 +17,7 @@ strategies = [
     axl.Defector(),
     axl.TitForTat(),
     axl.Grudger(),
+    axl.Random(0.5),
     pl0.Jeremy(),
     pl1.Tibor(),
     pl2.Constantin(),
