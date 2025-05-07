@@ -1,1 +1,1 @@
-axelrod=4.13.0
+axelrod==4.13.0
