@@ -21,113 +21,137 @@ Interaction index,Player index,Opponent index,Repetition,Player name,Opponent na
 9,9,0,0,Esra,Cooperator,DDCCCCCCCC,-8,10,10,-0.8,1.0,1,False,8,8,0,2,0,7,0,0,0,1,1,0,0,0
 10,0,10,0,Cooperator,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
 10,10,0,0,Joshua,Cooperator,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-11,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-11,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-12,1,2,0,Defector,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-12,2,1,0,Tit For Tat,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-13,1,3,0,Defector,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-13,3,1,0,Grudger,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-14,1,4,0,Defector,Jeremy,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-14,4,1,0,Jeremy,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-15,1,5,0,Defector,Tibor,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-15,5,1,0,Tibor,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-16,1,6,0,Defector,Constantin,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-16,6,1,0,Constantin,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-17,1,7,0,Defector,Christoph,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-17,7,1,0,Christoph,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-18,1,8,0,Defector,Dominik,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
-18,8,1,0,Dominik,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
-19,1,9,0,Defector,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-19,9,1,0,Esra,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-20,1,10,0,Defector,Joshua,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
-20,10,1,0,Joshua,Defector,CCDDDDDDDD,-34,-10,10,-3.4,-1.0,0,True,2,0,2,0,8,0,0,1,1,0,0,0,7,1
-21,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-21,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-22,2,3,0,Tit For Tat,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-22,3,2,0,Grudger,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-23,2,4,0,Tit For Tat,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-23,4,2,0,Jeremy,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-24,2,5,0,Tit For Tat,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-24,5,2,0,Tibor,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-25,2,6,0,Tit For Tat,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-25,6,2,0,Constantin,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-26,2,7,0,Tit For Tat,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-26,7,2,0,Christoph,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-27,2,8,0,Tit For Tat,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-27,8,2,0,Dominik,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-28,2,9,0,Tit For Tat,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
-28,9,2,0,Esra,Tit For Tat,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
-29,2,10,0,Tit For Tat,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-29,10,2,0,Joshua,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-30,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-30,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-31,3,4,0,Grudger,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-31,4,3,0,Jeremy,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-32,3,5,0,Grudger,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-32,5,3,0,Tibor,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-33,3,6,0,Grudger,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-33,6,3,0,Constantin,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-34,3,7,0,Grudger,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-34,7,3,0,Christoph,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-35,3,8,0,Grudger,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-35,8,3,0,Dominik,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-36,3,9,0,Grudger,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
-36,9,3,0,Esra,Grudger,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
-37,3,10,0,Grudger,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-37,10,3,0,Joshua,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-38,4,4,0,Jeremy,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-38,4,4,0,Jeremy,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-39,4,5,0,Jeremy,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-39,5,4,0,Tibor,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-40,4,6,0,Jeremy,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-40,6,4,0,Constantin,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-41,4,7,0,Jeremy,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-41,7,4,0,Christoph,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-42,4,8,0,Jeremy,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-42,8,4,0,Dominik,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-43,4,9,0,Jeremy,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
-43,9,4,0,Esra,Jeremy,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
-44,4,10,0,Jeremy,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-44,10,4,0,Joshua,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-45,5,5,0,Tibor,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-45,5,5,0,Tibor,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-46,5,6,0,Tibor,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-46,6,5,0,Constantin,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-47,5,7,0,Tibor,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-47,7,5,0,Christoph,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-48,5,8,0,Tibor,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-48,8,5,0,Dominik,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-49,5,9,0,Tibor,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
-49,9,5,0,Esra,Tibor,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
-50,5,10,0,Tibor,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-50,10,5,0,Joshua,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-51,6,6,0,Constantin,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-51,6,6,0,Constantin,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-52,6,7,0,Constantin,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-52,7,6,0,Christoph,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-53,6,8,0,Constantin,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-53,8,6,0,Dominik,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-54,6,9,0,Constantin,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
-54,9,6,0,Esra,Constantin,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
-55,6,10,0,Constantin,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-55,10,6,0,Joshua,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-56,7,7,0,Christoph,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-56,7,7,0,Christoph,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-57,7,8,0,Christoph,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-57,8,7,0,Dominik,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-58,7,9,0,Christoph,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
-58,9,7,0,Esra,Christoph,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
-59,7,10,0,Christoph,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-59,10,7,0,Joshua,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-60,8,8,0,Dominik,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-60,8,8,0,Dominik,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-61,8,9,0,Dominik,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
-61,9,8,0,Esra,Dominik,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
-62,8,10,0,Dominik,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-62,10,8,0,Joshua,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-63,9,9,0,Esra,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-63,9,9,0,Esra,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
-64,9,10,0,Esra,Joshua,DDCCDDCDDD,-27,0,10,-2.7,0.0,0,False,3,0,3,3,4,0,0,1,2,1,2,1,2,1
-64,10,9,0,Joshua,Esra,CCDDCDDDDD,-27,0,10,-2.7,0.0,0,True,3,0,3,3,4,0,0,1,2,1,2,0,3,1
-65,10,10,0,Joshua,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
-65,10,10,0,Joshua,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+11,0,11,0,Cooperator,Jano,CCCCCCCCCC,-50,-50,10,-5.0,-5.0,0,True,10,0,10,0,0,0,0,9,0,0,0,0,0,1
+11,11,0,0,Jano,Cooperator,DDDDDDDDDD,0,50,10,0.0,5.0,1,False,0,0,0,10,0,0,0,0,0,0,9,0,0,0
+12,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+12,1,1,0,Defector,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+13,1,2,0,Defector,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+13,2,1,0,Tit For Tat,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+14,1,3,0,Defector,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+14,3,1,0,Grudger,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+15,1,4,0,Defector,Jeremy,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+15,4,1,0,Jeremy,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+16,1,5,0,Defector,Tibor,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+16,5,1,0,Tibor,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+17,1,6,0,Defector,Constantin,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+17,6,1,0,Constantin,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+18,1,7,0,Defector,Christoph,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+18,7,1,0,Christoph,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+19,1,8,0,Defector,Dominik,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+19,8,1,0,Dominik,Defector,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+20,1,9,0,Defector,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+20,9,1,0,Esra,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+21,1,10,0,Defector,Joshua,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+21,10,1,0,Joshua,Defector,CCDDDDDDDD,-34,-10,10,-3.4,-1.0,0,True,2,0,2,0,8,0,0,1,1,0,0,0,7,1
+22,1,11,0,Defector,Jano,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+22,11,1,0,Jano,Defector,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+23,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+23,2,2,0,Tit For Tat,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+24,2,3,0,Tit For Tat,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+24,3,2,0,Grudger,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+25,2,4,0,Tit For Tat,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+25,4,2,0,Jeremy,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+26,2,5,0,Tit For Tat,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+26,5,2,0,Tibor,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+27,2,6,0,Tit For Tat,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+27,6,2,0,Constantin,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+28,2,7,0,Tit For Tat,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+28,7,2,0,Christoph,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+29,2,8,0,Tit For Tat,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+29,8,2,0,Dominik,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+30,2,9,0,Tit For Tat,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
+30,9,2,0,Esra,Tit For Tat,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
+31,2,10,0,Tit For Tat,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+31,10,2,0,Joshua,Tit For Tat,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+32,2,11,0,Tit For Tat,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+32,11,2,0,Jano,Tit For Tat,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+33,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+33,3,3,0,Grudger,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+34,3,4,0,Grudger,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+34,4,3,0,Jeremy,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+35,3,5,0,Grudger,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+35,5,3,0,Tibor,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+36,3,6,0,Grudger,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+36,6,3,0,Constantin,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+37,3,7,0,Grudger,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+37,7,3,0,Christoph,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+38,3,8,0,Grudger,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+38,8,3,0,Dominik,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+39,3,9,0,Grudger,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
+39,9,3,0,Esra,Grudger,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
+40,3,10,0,Grudger,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+40,10,3,0,Joshua,Grudger,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+41,3,11,0,Grudger,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+41,11,3,0,Jano,Grudger,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+42,4,4,0,Jeremy,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+42,4,4,0,Jeremy,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+43,4,5,0,Jeremy,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+43,5,4,0,Tibor,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+44,4,6,0,Jeremy,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+44,6,4,0,Constantin,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+45,4,7,0,Jeremy,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+45,7,4,0,Christoph,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+46,4,8,0,Jeremy,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+46,8,4,0,Dominik,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+47,4,9,0,Jeremy,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
+47,9,4,0,Esra,Jeremy,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
+48,4,10,0,Jeremy,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+48,10,4,0,Joshua,Jeremy,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+49,4,11,0,Jeremy,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+49,11,4,0,Jano,Jeremy,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+50,5,5,0,Tibor,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+50,5,5,0,Tibor,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+51,5,6,0,Tibor,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+51,6,5,0,Constantin,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+52,5,7,0,Tibor,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+52,7,5,0,Christoph,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+53,5,8,0,Tibor,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+53,8,5,0,Dominik,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+54,5,9,0,Tibor,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
+54,9,5,0,Esra,Tibor,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
+55,5,10,0,Tibor,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+55,10,5,0,Joshua,Tibor,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+56,5,11,0,Tibor,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+56,11,5,0,Jano,Tibor,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+57,6,6,0,Constantin,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+57,6,6,0,Constantin,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+58,6,7,0,Constantin,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+58,7,6,0,Christoph,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+59,6,8,0,Constantin,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+59,8,6,0,Dominik,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+60,6,9,0,Constantin,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
+60,9,6,0,Esra,Constantin,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
+61,6,10,0,Constantin,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+61,10,6,0,Joshua,Constantin,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+62,6,11,0,Constantin,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+62,11,6,0,Jano,Constantin,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+63,7,7,0,Christoph,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+63,7,7,0,Christoph,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+64,7,8,0,Christoph,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+64,8,7,0,Dominik,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+65,7,9,0,Christoph,Esra,CDDCDDCDDC,-29,-5,10,-2.9,-0.5,0,True,4,0,4,3,3,0,0,0,3,3,0,0,3,1
+65,9,7,0,Esra,Christoph,DDCDDCDDCD,-24,5,10,-2.4,0.5,1,False,3,0,3,4,3,0,0,0,3,0,3,3,0,0
+66,7,10,0,Christoph,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+66,10,7,0,Joshua,Christoph,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+67,7,11,0,Christoph,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+67,11,7,0,Jano,Christoph,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+68,8,8,0,Dominik,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+68,8,8,0,Dominik,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+69,8,9,0,Dominik,Esra,CDDDDDDDDD,-29,0,10,-2.9,0.0,0,True,1,0,1,1,8,0,0,0,1,0,1,0,7,1
+69,9,8,0,Esra,Dominik,DDCDDDDDDD,-29,0,10,-2.9,0.0,0,False,1,0,1,1,8,0,0,0,1,0,1,1,6,1
+70,8,10,0,Dominik,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+70,10,8,0,Joshua,Dominik,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+71,8,11,0,Dominik,Jano,CDDDDDDDDD,-32,-5,10,-3.2,-0.5,0,True,1,0,1,0,9,0,0,0,1,0,0,0,8,1
+71,11,8,0,Jano,Dominik,DDDDDDDDDD,-27,5,10,-2.7,0.5,1,False,0,0,0,1,9,0,0,0,0,0,1,0,8,0
+72,9,9,0,Esra,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+72,9,9,0,Esra,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+73,9,10,0,Esra,Joshua,DDCCDDCDDD,-27,0,10,-2.7,0.0,0,False,3,0,3,3,4,0,0,1,2,1,2,1,2,1
+73,10,9,0,Joshua,Esra,CCDDCDDDDD,-27,0,10,-2.7,0.0,0,True,3,0,3,3,4,0,0,1,2,1,2,0,3,1
+74,9,11,0,Esra,Jano,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+74,11,9,0,Jano,Esra,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+75,10,10,0,Joshua,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+75,10,10,0,Joshua,Joshua,CCCCCCCCCC,-10,0,10,-1.0,0.0,0,True,10,10,0,0,0,9,0,0,0,0,0,0,0,1
+76,10,11,0,Joshua,Jano,CCDDDDDDDD,-34,-10,10,-3.4,-1.0,0,True,2,0,2,0,8,0,0,1,1,0,0,0,7,1
+76,11,10,0,Jano,Joshua,DDDDDDDDDD,-24,10,10,-2.4,1.0,1,False,0,0,0,2,8,0,0,0,0,0,2,0,7,0
+77,11,11,0,Jano,Jano,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
+77,11,11,0,Jano,Jano,DDDDDDDDDD,-30,0,10,-3.0,0.0,0,False,0,0,0,0,10,0,0,0,0,0,0,0,9,1
